@@ -1,0 +1,11 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Eagle Vision"
+#Theme settings
+theme = "tale"
+[params]
+Author = "Pravin Kumar"
+[author]
+name = "Eagle Vision"
+
+googleAnalytics = 279700044
